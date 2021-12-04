@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AoC_2021.iml" filepath="$PROJECT_DIR$/.idea/AoC_2021.iml" />
       <module fileurl="file://$PROJECT_DIR$/aoc-1/aoc-1.iml" filepath="$PROJECT_DIR$/aoc-1/aoc-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aoc-2/aoc-2.iml" filepath="$PROJECT_DIR$/aoc-2/aoc-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aoc-3/aoc-3.iml" filepath="$PROJECT_DIR$/aoc-3/aoc-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aoc-4/aoc-4.iml" filepath="$PROJECT_DIR$/aoc-4/aoc-4.iml" />
     </modules>
   </component>
 </project>

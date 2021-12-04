@@ -4,6 +4,9 @@
     <option name="projectFiles">
       <set>
         <option value="file://$PROJECT_DIR$/aoc-1/project.clj" />
+        <option value="file://$PROJECT_DIR$/aoc-2/project.clj" />
+        <option value="file://$PROJECT_DIR$/aoc-3/project.clj" />
+        <option value="file://$PROJECT_DIR$/aoc-4/project.clj" />
       </set>
     </option>
   </component>
