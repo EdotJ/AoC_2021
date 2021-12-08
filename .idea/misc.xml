@@ -9,8 +9,10 @@
         <option value="file://$PROJECT_DIR$/aoc-4/project.clj" />
         <option value="file://$PROJECT_DIR$/aoc-5/project.clj" />
         <option value="file://$PROJECT_DIR$/aoc-6/project.clj" />
+        <option value="file://$PROJECT_DIR$/aoc-7/project.clj" />
+        <option value="file://$PROJECT_DIR$/aoc-8/project.clj" />
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="jdk11" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>

@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/aoc-4/aoc-4.iml" filepath="$PROJECT_DIR$/aoc-4/aoc-4.iml" />
       <module fileurl="file://$PROJECT_DIR$/aoc-5/aoc-5.iml" filepath="$PROJECT_DIR$/aoc-5/aoc-5.iml" />
       <module fileurl="file://$PROJECT_DIR$/aoc-6/aoc-6.iml" filepath="$PROJECT_DIR$/aoc-6/aoc-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aoc-7/aoc-7.iml" filepath="$PROJECT_DIR$/aoc-7/aoc-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aoc-8/aoc-8.iml" filepath="$PROJECT_DIR$/aoc-8/aoc-8.iml" />
     </modules>
   </component>
 </project>
